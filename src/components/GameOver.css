@@ -1,0 +1,11 @@
+h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+  }
+  
+  /* Estilos para dispositivos com largura de tela até 768px */
+@media screen and (max-width: 768px) {
+    h2 span {
+      font-size: 1.2em;
+    }
+  }
